@@ -1,4 +1,3 @@
-
 AfriCoin Smart Contract
 
 "Unlocking Financial Freedom for Africa"
