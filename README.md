@@ -1,5 +1,5 @@
 
-AfriCoin Smart Contract: Empowering African Traders*
+AfriCoin Smart Contract
 
 "Unlocking Financial Freedom for Africa"
 
